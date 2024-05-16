@@ -1,0 +1,61 @@
+
+h1{
+    color : blueviolet;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+
+.aueb-title {
+    font-family:"Calligraffitti", Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    font-weight: 800;
+    color:rgba(218, 17, 121, 0.447);
+    text-align: center;
+}
+
+.aueb-text,.aueb-text2 {
+    font-family: "Miniver";
+    background-color:rgba(142, 243, 254, 0.833);
+    text-align: center;
+    color: blueviolet;
+    width: 500px;
+    border: 1px solid black;
+}
+
+ul > li {
+    color :rgb(52, 137, 137);
+}
+
+.courses >li {
+    color: blue;
+    list-style: georgian;
+}
+
+.dh > span {
+    background-color: blueviolet;
+}
+
+input[type= "text"] {
+    background-color: greenyellow;
+}
+
+input[type= "button"] {
+    background-color: orchid;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.id{
+    text-align: center;
+}
+
+table, th, td {
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+}
